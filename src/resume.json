@@ -1,11 +1,11 @@
 {
     "basics": {
-        "name": "Nick Stewart",
+        "name": "Eric Vasilevsky",
         "label": "Software Engineer",
-        "picture": "https://avatars.githubusercontent.com/u/1165359",
-        "email": "nick.stewart.programmer@gmail.com",
-        "website": "https://nickstew.github.io",
-        "summary": "Driven, passionate, full-stack software engineer. Excited to be primarily working in the wild west of front-end Javascript development.",
+        "picture": "https://avatars2.githubusercontent.com/u/8933044",
+        "email": "evasilevsky@gmail.com",
+        "website": "https://evasilevsky.github.io",
+        "summary": "Software Engineer with over five years of experience seeking opportunity to work with cutting-edge web technologies in an environment of continuous learning. ",
         "location": {
             "address": "",
             "postalCode": "",
@@ -16,58 +16,36 @@
         "profiles": [
             {
                 "network": "Email",
-                "username": "nick.stewart.programmer@gmail.com",
-                "url": "mailto:nick.stewart.programmer@gmail.com"
+                "username": "evasilevsky@gmail.com",
+                "url": "mailto:evasilevsky@gmail.com"
             },
             {
                 "network": "LinkedIn",
-                "username": "nickstewartprogrammer",
-                "url": "https://www.linkedin.com/in/nickstewartprogrammer"
+                "username": "evasilevsky",
+                "url": "https://www.linkedin.com/in/evasilevsky"
             },
             {
                 "network": "GitHub",
-                "username": "nickstew",
-                "url": "https://github.com/nickstew"
+                "username": "evasilevsky",
+                "url": "https://github.com/evasilevsky"
             }
         ]
     },
     "work": [
         {
-            "company": "Rakuten Marketing",
+            "company": "1800 Contacts",
             "position": "Software Developer",
-            "website": "https://www.rakutenmarketing.com/",
-            "startDate": "2015-03-04",
+            "website": "https://www.1800contacts.com/",
+            "startDate": "2012-04-02",
             "endDate": "Present",
-            "summary": "Midvale, Utah",
+            "summary": "Draper, Utah",
             "highlights": [
-                "Maintained and added features to an internal, dynamic, ad builder web application.  It was built using Angular.js.",
-                "Also built an analytics website for clients and employees to view and compare effectiveness of marketing campaigns over time.  The website was built using Mithril.js and HighCharts.js."
-            ]
-        },
-        {
-            "company": "Vivint",
-            "position": "Senior Software Developer",
-            "website": "https://www.vivint.com/",
-            "startDate": "2013-09-01",
-            "endDate": "2015-01-31",
-            "summary": "Lehi, Utah",
-            "highlights": [
-                "Built and maintained an application to streamline the data entry of sales.",
-                "Built account management application using Ember.js and .Net Services.",
-                "Built middleware API between Salesforce and account management application."
-            ]
-        },
-        {
-            "company": "Xtrac Solutions",
-            "position": "Software Developer",
-            "website": "http://www.xtracsolutions.com/",
-            "startDate": "2012-07-01",
-            "endDate": "2013-09-01",
-            "summary": "Salt Lake City, Utah",
-            "highlights": [
-                "Designed and implemented solutions to execute Business Process Modeling Notation (BPMN) models.",
-                "Built Spring resources in Scala for Web based client.",
-                "Resolved issues dealing with dependency management in Maven as well as assisting with management of Jenkins Continuous Integration Server."
+                "Initiated, developed, and tested new functionality on a variety of projects to completion. ",
+                "Instrumental in redesign of website to an SPA architecture utilizing Angular 1.x",
+                "Well-versed problem solver when diagnosing particularly hard to find bugs",
+                "Mentored new employees to acclimate them to the environment",
+                "Worked in hectic situations to fix problems fast and efficiently",
+                "Released new code to production several times per week"
             ]
         }
     ],
@@ -76,34 +54,27 @@
             "institution": "Neumont University",
             "area": "B.S. in Computer Science",
             "studyType": "Bachelors",
-            "startDate": "2009-08-01",
-            "endDate": "2012-06-30",
+            "startDate": "2009-09-30",
+            "endDate": "2012-03-22",
             "summary": "Salt Lake City, Utah",
             "courses": [
+                "C# Programming",
                 "Enterprise Application Design",
                 "User Interface Design and Development",
                 "Web Technologies",
                 "Computational Theory",
                 "Design and Analysis of Algorithms",
                 "Database Management Systems",
-                "Java Programming",
-                "C# Programming",
-                "Senator for Student Government"
+                "Java Programming"
             ]
         }
     ],
     "publications": [
         {
-            "name": "OpenSprints Electron",
-            "publisher": "OpenSprints LLC.",
-            "website": "https://github.com/opensprints/opensprints-electron",
-            "summary": "OpenSprints Multiplatform Roller Racing Event Managment Application"
-        },
-        {
-            "name": "nickstew.github.io",
-            "publisher": "Nick Stewart",
-            "website": "https://github.com/nickstew/nickstew.github.io",
-            "summary": "This website is a static single-page application developed using React.js in pure functional code. It extends the amazing template designed by Xiaoying Riley, ported over to React.js, and uses JSON Resume schema to store a Curriculum Vitae in JSON format."
+            "name": "Volume Slider",
+            "publisher": "Eric Vasilevsky",
+            "website": "https://github.com/evasilevsky/volumeSliders",
+            "summary": "This is an example of how NOT to do UI design through an absolutely impractical way to change the volume on a video. Resize the window in order to change the volume. "
         }
     ],
     "skills": [
@@ -123,24 +94,15 @@
             ]
         },
         {
-            "name": "Scala/Java",
-            "level": "70",
-            "keywords": [
-                "programming",
-                "Spring",
-                "Maven"
-            ]
-        },
-        {
             "name": "C#",
-            "level": "80",
+            "level": "90",
             "keywords": [
                 "programming",
-                "WPF",
-                "ASP.NET 4.5",
-                "MVVM",
+                "WCF",
+                "ASP.NET 4.6",
                 "Web API 2.0",
-                "MVC"
+                "MVC",
+                ".NET Core"
             ]
         },
         {
@@ -152,16 +114,8 @@
             ]
         },
         {
-            "name": "MySQL",
-            "level": "60",
-            "keywords": [
-                "database",
-                "sql"
-            ]
-        },
-        {
-            "name": "PostgreSQL",
-            "level": "50",
+            "name": "Java",
+            "level": "40",
             "keywords": [
                 "database",
                 "sql"

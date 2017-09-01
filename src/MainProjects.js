@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import resume from './resume.json';
 
-const featureProjectImage = '/assets/images/projects/project-featured.jpeg';
 
 const secondaryProjectWithImage = (publication) => (
   <div className="item row">
@@ -60,37 +59,6 @@ class MainProjects extends Component {
               <p className="summary">
                 {resume.publications[0].summary}
               </p>
-              <div className="featured-image">
-                <a href={resume.publications[0].website} rel="noopener noreferrer" target="_blank">
-                  <img className="img-responsive project-image" src={featureProjectImage} alt="OpenSprints Electron Race Screen" />
-                </a>
-                <div className="ribbon">
-                  <div className="text">New</div>
-                </div>
-              </div>
-              <div className="desc text-left">
-                <p>
-                  OpenSprints Electron allows anyone to run a bicycle roller race event for fun or profit!
-                </p>
-                <p>Features include:</p>
-                <ul>
-                  <li>Roster Management</li>
-                  <li>Customizable Backgrounds</li>
-                  <li>Downloadable Event Information</li>
-                  <li>Easy Sponsor Customization</li>
-                  <li>Complete Restyling of App with only CSS</li>
-                </ul>
-              </div>
-              {/*<a className="github-button" href="https://github.com/opensprints/opensprints-electron" data-icon="octicon-star" data-style="mega" data-count-href="/opensprints/opensprints-electron/stargazers" data-count-api="/repos/opensprints/opensprints-electron#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star opensprints/opensprints-electron on GitHub">*/}
-                {/*Star*/}
-              {/*</a>*/}
-              <a
-                className="btn btn-cta-secondary"
-                href="https://github.com/opensprints/opensprints-electron"
-                rel="noopener noreferrer"
-                target="_blank">
-                <i className="fa fa-thumbs-o-up"></i> Back my project
-              </a>
             </div>
 
             {/* <hr className="divider" /> */}
